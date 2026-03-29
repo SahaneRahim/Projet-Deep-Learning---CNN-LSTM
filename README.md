@@ -1,4 +1,4 @@
-# Projet Deep Learning — CNN & LSTM (ENSP Douala)
+# Projet Deep Learning — CNN & LSTM (ENSPD Douala)
 
 Ce dépôt contient l'implémentation de deux modèles avancés de Deep Learning. Le projet a pour but de résoudre deux types de problèmes fondamentaux d'Intelligence Artificielle de manière claire, structurée et suivant les meilleures pratiques de programmation orientée objet sous TensorFlow/Keras.
 
